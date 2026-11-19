@@ -36,6 +36,6 @@ I'm Chinmay Prabhu, a Junior Officer in Sales (Material Handling Equipment) at N
 - TryHackMe
 
 ## Connect
-LinkedIn: [your LinkedIn profile URL]
+LinkedIn: https://www.linkedin.com/in/chinmay-prabhu-3087b7344
 
 *This is a learning repository. I'm a beginner, and I share my mistakes and lessons along with the wins.*
